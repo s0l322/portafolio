@@ -25,6 +25,5 @@ Soy estudiante de Ingeniería en Ciberseguridad. Apasionada por el análisis de 
 ---
 
 ## 📫 Contacto
-
-- Email: tuemail@ejemplo.com
 - LinkedIn: [[linkedin.com/in/valentina-mendoza](https://www.linkedin.com/in/valentina-mendoza-9b1a4493/)]
+- GitHub: https://github.com/s0l322/
